@@ -41,7 +41,7 @@ Graças a cursos complementares, desenvolvi soft skills como:  Comunicação, tr
 
 
 <p align="center">
-  <b>&hearts;Feito com lógica, criatividade e um toque de caos controlado! &hearts;</b>
+  <b>&hearts;  Feito com lógica, criatividade e um toque de caos controlado!  &hearts;</b>
 </p>
 <p align="center">
 
