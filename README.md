@@ -1,15 +1,13 @@
  Sou a Berta Araujo! 
-
-> “No mundo do código, cada bug é só mais uma ilusão para ser desfeita.”
 >
 > 
-&hearts; Busco constantemente aprimorar minha base lógica e a estrutura do meu raciocínio de programadora.  
+Busco constantemente aprimorar minha base lógica e a estrutura do meu raciocínio de programadora.  
 Meu objetivo é evoluir no **Back-End**, construindo sistemas funcionais e elegantes, com foco em **organização, clareza e impacto**.
-Acredito que a tecnologia, assim como a Feiticeira Escarlate, pode **moldar realidades** - desde que seja bem controlada.&hearts;
+Acredito que a tecnologia pode moldar realidades.&hearts;
 
-&hearts; **Um pouco sobre mim:**
+**Um pouco sobre mim:**
 
-- **Foco:** Desenvolvimento **Back-End**  
+- **Objetivo:**Desenvolvimento Back-End, Dados e IA**
 - **Curiosidade:** Gosto muito de ler, apaixonada pelo empreendedorismo, mãe de 3 filhos lindos e estou em transição de carreira para a área da tecnologia.   
 - **Inspiração:** Empreendedores que vieram de baixo me inspiram muito.
 
@@ -22,26 +20,11 @@ Acredito que a tecnologia, assim como a Feiticeira Escarlate, pode **moldar real
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-&hearts; Projetos em Destaque
-
-... Construindo ... 
 
 &hearts; **Diferenciais:**  
 Graças a cursos complementares, desenvolvi soft skills como:  Comunicação, trabalho em equipe, proatividade, empatia e adaptabilidade, qualidades que aplico em cada projeto. 
 
 &hearts; **O que estou estudando agora**
-
-📘 Lógica de Programação
-
-📘 Linguagem C
-
-📘 Fundamentos de Python
-
-📘 Passeio em alguns conteúdos de linguagem Go
-
-
-<p align="center">
-  <b>&hearts;  Feito com lógica, criatividade e um toque de caos controlado!  &hearts;</b>
-</p>
-<p align="center">
+Faculdade de ADS na FIPP Unoeste, desenvolvendo com linguagem C e JavaScript, HTML e CSS, aprendendo sobre lógica de programação, estrutura de dados e algoritmos para criar base sólida.
+Diariamente estudo através de cursos e bootcamps.
 
