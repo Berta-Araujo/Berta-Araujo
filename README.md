@@ -1,7 +1,7 @@
  Sou a Berta Araujo! 
 >
 >
-Sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** na FIPP Unoeste de Presidente Prudente e estou em transição de carreira para a área de TI.
+**Estudante de Análise e Desenvolvimento de Sistemas (ADS)** na FIPP Unoeste de Presidente Prudente e estou em transição de carreira para a área de TI.
 
 Tenho direcionado meus estudos para **Back-end**, **Dados** e **SQL**, buscando compreender bem os fundamentos antes de avançar para tecnologias mais complexas.
 
